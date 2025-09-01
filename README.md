@@ -26,9 +26,9 @@ Users can search for any movie and get details like **poster, title, director, a
 **## 📂 Project Structure**
 
   ---------&nbsp;public<br>
-  |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|----- index.html<br>
-  |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|----- style.css<br>
-  |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|----- script.js<br>
+  |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|----- index.html<br>
+  |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|----- style.css<br>
+  |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|----- script.js<br>
   |----------&nbsp;server.js<br>
   |----------&nbsp;.gitignore<br>
   |----------&nbsp;package-lock.json<br>
